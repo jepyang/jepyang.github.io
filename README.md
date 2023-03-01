@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
 <h1>jepyang's website</h1>
 <ln>
 <a rel="me" href="https://wandering.shop/@jepyang">mastodon</a><br>
@@ -11,5 +8,3 @@
 <a href="mailto:jepyang@jepyang.com">email</a><br>
 <br>
 thanks for visiting!
-</body>
-</html>
